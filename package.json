@@ -24,7 +24,7 @@
   "dependencies": {
     "@bassettsj/livestamp": "^2.0.0",
     "async": "^2.5.0",
-    "bitcoinjs-lib": "^4.0.2",
+    "bitcoinjs-lib": "^6.0.1",
     "bootstrap": "^3.3.7",
     "bootstrap-3-typeahead": "^4.0.2",
     "bootstrap-dialog": "^1.34.6",
